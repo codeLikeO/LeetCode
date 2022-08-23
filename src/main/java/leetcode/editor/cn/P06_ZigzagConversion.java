@@ -67,9 +67,6 @@ public class P06_ZigzagConversion {
     class Solution {
 
         public String convert(String s, int numRows) {
-//            if (numRows > s.length()) {
-//                return s;
-//            }
             StringBuilder[] res = new StringBuilder[numRows];
 
             int cursor = 0;
