@@ -40,6 +40,8 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
 
+
+
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
